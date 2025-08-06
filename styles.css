@@ -173,6 +173,9 @@ li a:hover {
 /* Add a grey background color to dropdown links on hover */
 .dropdown-content a:hover {
   background-color: #ddd;
+  width: 100%;
+  padding: 14px 16px;
+  box-sizing: border-box;
 }
 
 /* Show the dropdown menu on hover */
