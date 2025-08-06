@@ -105,10 +105,10 @@ li a {
 
 li a:hover {
   background-color: #383838;
-  padding-top: 0.2em;
-  padding-bottom: 0.2em;
-  padding-right: 0.5em;
-  padding-left: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 /* Navbar container */
